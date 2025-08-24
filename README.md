@@ -25,7 +25,7 @@ Follow these steps to get your development environment up and running:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ecommerce.git
+    git clone https://github.com/abdullahdigital/ecommerce.git
     cd ecommerce
     ```
 2.  **Install dependencies**:
